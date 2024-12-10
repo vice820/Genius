@@ -21,6 +21,3 @@ Instala en  una pc : https://www.pronterface.com   /   https://www.st.com/en/dev
    - Si al intentar mover los ejes desde la pantalla de la impresora no responde, significa que lo hiciste bien. Ahora ya tienes Klipper instalado. (Klipper solo hace que la impresora sea reconocida por el sistema).  
 
 10. **Conéctate desde tu Raspberry Pi o teléfono.**  
-
-
-VIdeo  para ayuda https://youtu.be/Bds6RYXkd14?t=81 
