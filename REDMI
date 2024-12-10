@@ -5,3 +5,5 @@ conecta  la  inpresoa a computador , abre  pronterface dale a  conetar y intenta
 hora abre STM32CubeProgrammer adonde dice port  pon usb  Y dale  al  conect se te va a mostrar  muchos Nuemros  Hora  dale al  Boton que es como   para descargar  hay  escoje  el  .bin  y dale ala  option que dice  Verify programming
 luego  dale al Start Programm Cuando dija Download verified successfully ya esta Listo  Desconecta todo  y  Reinicia la maquina ahora al   intentar mover los ejes de la pantalla no  responde  eso  es que  lo  hiciste bien  ahora  ya 
 tiene  klipper (es solo  para que se entinda la  maquina) ahora desde conta tu raspberry pi o tu  telefono  
+
+VIdeo  para ayuda https://youtu.be/Bds6RYXkd14?t=81 
