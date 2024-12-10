@@ -1,9 +1,5 @@
 Instala en  una pc : https://www.pronterface.com   /   https://www.st.com/en/development-tools/stm32cubeprog.html 
 
-Aquí tienes el texto corregido para que sea más claro y fácil de entender:  
-
----
-
 1. **Descarga los archivos necesarios.**  
 2. **Conecta la impresora al computador.**  
 3. **Abre Pronterface.**  
@@ -26,8 +22,5 @@ Aquí tienes el texto corregido para que sea más claro y fácil de entender:
 
 10. **Conéctate desde tu Raspberry Pi o teléfono.**  
 
---- 
-
-Este formato es más claro y fácil de seguir. 😊 
 
 VIdeo  para ayuda https://youtu.be/Bds6RYXkd14?t=81 
