@@ -7,7 +7,7 @@ Instala en  una pc : https://www.pronterface.com   /   https://www.st.com/en/dev
    - Intenta mover uno de los ejes desde el software. Si se mueve, la conexión está funcionando correctamente.  
 4. **Ejecuta el siguiente comando en Pronterface:** `M997` (Es normal que arroje un error).  
 5. **Abre STM32CubeProgrammer.**  
-   - En la sección "Port", selecciona USB y haz clic en "Conectar".  
+   - En la sección "Port", selecciona USB y haz clic en "Conectar".    (tip descarja una  copia del .bin  actula de la maquina)
    - Verás aparecer muchos números; esto es normal.  
 6. **Carga el archivo `.bin`:**  
    - Haz clic en el botón de descarga (ícono de flecha hacia abajo).  
